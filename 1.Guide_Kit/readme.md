@@ -22,12 +22,12 @@ Before running the app, obtain a Gemini API key and enter it in the sidebar.
 
 ### Code Inspector
 *The Code Inspector tool provides developers with instant feedback and actionable suggestions to enhance the quality of their code.*
-![Code Inspector Screenshot](1.Guide_Kit/screenshots/code_inspector.png)
+![Code Inspector Screenshot](screenshots/code_inspector.png)
 
 ### MCQ Generator
 *The MCQ Generator tool automates the process of creating multiple-choice questions (MCQs) for study materials and assessments.*
-![MCQ Generator Screenshot](1.Guide_Kit/screenshots/mcq_generator.png)
+![MCQ Generator Screenshot](screenshots/mcq_generator.png)
 
 ### Data Science AI Tutor
 *The Data Science AI Tutor serves as a virtual guide for individuals embarking on their Data Science journey, providing clear explanations and real-world examples.*
-![Data Science AI Tutor Screenshot](1.Guide_Kit/screenshots/ds_chatbot.png)
+![Data Science AI Tutor Screenshot](screenshots/ds_chatbot.png)
